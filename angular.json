@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "try-pivot-table-plugins-in-angular"
+    }
+  },
+  "defaultProject": "try-pivot-table-plugins-in-angular",
+  "cli": {
+    "analytics": false
+  }
 }

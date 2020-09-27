@@ -1,10 +1,11 @@
+import { data } from './data';
 import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.scss']
+  styleUrls: ['./app.component.scss'],
 })
 export class AppComponent {
-  title = 'try-pivot-table-plugins-in-angular';
+  public data = data;
 }

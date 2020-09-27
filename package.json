@@ -31,6 +31,8 @@
     "react-sort-pivottable": "^0.10.2",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
+    "vue": "^2.6.12",
+    "vue-pivot-table-plus": "^0.5.4",
     "zone.js": "~0.10.2"
   },
   "devDependencies": {

@@ -18,7 +18,7 @@ const containerElementName = 'reactSortPivottableWrapper';
 
 @Component({
   selector: 'app-react-sort-pivottable-wrapper',
-  template: `<span #${containerElementName}></span>`,
+  template: `<div #${containerElementName}></div>`,
   styleUrls: ['./react-sort-pivottable-wrapper.component.scss'],
   encapsulation: ViewEncapsulation.None,
 })
